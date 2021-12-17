@@ -2,5 +2,5 @@
 	"ip":"LuckyDogPVP.aternos.me",
 	"port": "52733",
 	"name": "TPBot",
-	"auto-night-skip":false"
+	"auto-night-skip":"false"
 }
